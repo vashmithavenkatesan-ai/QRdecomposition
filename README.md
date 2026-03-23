@@ -63,9 +63,8 @@ QR_Decomposition(A)
 ```
 
 ## Output
-```
-c:\Users\acer\Pictures\Screenshots\Screenshot (115).png
-```
+
+![alt text](<Screenshot (115).png>)
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
